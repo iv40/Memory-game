@@ -1,0 +1,30 @@
+.imgs{
+
+    display: none;
+    margin: 0px;
+    margin-bottom: -7px;
+    background: white;
+}
+td{
+    width:120px;
+    height:120px;
+    background: url(img/pattern.jpg);
+    background-size: 160px 160px;
+    padding: 0px;
+}
+
+#victory{
+
+    display: none;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 60px;
+    top: 300px;
+    font-size: 68px;
+    font-weight: bold;
+    color: #007fff;
+}
+body{
+
+}
